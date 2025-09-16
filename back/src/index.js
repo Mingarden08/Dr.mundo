@@ -1,1 +1,1 @@
-require("./back/server");
+require("./server");
